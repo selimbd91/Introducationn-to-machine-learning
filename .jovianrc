@@ -1,3 +1,7 @@
 {
-  "notebooks": {}
+  "notebooks": {
+    "numpy module.ipynb": {
+      "slug": "0375d64deaa44cabae26c82e984478b4"
+    }
+  }
 }
